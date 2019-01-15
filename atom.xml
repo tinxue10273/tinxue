@@ -6,15 +6,43 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-12-04T15:34:34.875Z</updated>
+  <updated>2018-12-05T09:05:26.685Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>tinxue</name>
+    <name>听雪</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>new Post</title>
+    <link href="http://yoursite.com/2018/12/05/new-Post/"/>
+    <id>http://yoursite.com/2018/12/05/new-Post/</id>
+    <published>2018-12-05T09:05:26.000Z</published>
+    <updated>2018-12-05T09:05:26.685Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇</title>
+    <link href="http://yoursite.com/2018/12/05/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
+    <id>http://yoursite.com/2018/12/05/第一篇/</id>
+    <published>2018-12-05T08:48:08.000Z</published>
+    <updated>2018-12-05T08:53:38.004Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
